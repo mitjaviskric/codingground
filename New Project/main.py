@@ -1,5 +1,5 @@
-﻿ime1 = "Andreja"
-ime2 = "Maša"
+ime1 = "Andreja"
+ime2 = "Masa"
 delovno_mesto1 = "izposoja 1"
 delovno_mesto2 = "interno delo"
 
